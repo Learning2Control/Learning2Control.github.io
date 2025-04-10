@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Learning 2 Control
+title: Learning 2 Control (L2C) Research Lab
 ---
 
 <nav>
@@ -12,7 +12,7 @@ title: Learning 2 Control
 </nav>
 
 <header>
-  <h1>Learning 2 Control (L2C) Research Lab</h1>
+  <h1>About the Lab</h1>
 </header>
 
 <div style="text-align: center;">
