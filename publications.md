@@ -34,6 +34,16 @@ permalink: /publications
       <em>R. G. Cestari, S. Chiodini, S. Formentin</em>
     </li>
     <li>
+      <strong><a href="https://doi.org/10.1016/j.ejcon.2025.101205">Non-linear multi-objective Bayesian MPC of water reservoir systems</a></strong><br>
+      <em>European Journal of Control, Volume 83, May 2025</em><br>
+      <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
+    </li>
+    <li>
+      <strong>Control-oriented modeling for MPC of water reservoir systems</strong><br>
+      <em>International Journal of Control, 2025</em><br>
+      <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
+    </li>
+    <li>
       <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.535">Split-boost neural networks</a></strong><br>
       <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17–19, 2024</em><br>
       <em>R. G. Cestari, G. Maroni, L. Cannelli, D. Piga, S. Formentin</em>
@@ -57,21 +67,6 @@ permalink: /publications
       <strong><a href="https://doi.org/10.1016/j.ifacol.2022.11.002">Hourly operation of a regulated lake via Model Predictive Control</a></strong><br>
       <em>2nd IFAC Workshop on Control Methods for Water Resource Systems CMWRS 2022: Milano, Italy, September 22–23, 2022</em><br>
       <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
-    </li>
-    <li>
-      <strong><a href="https://doi.org/10.1016/j.ejcon.2025.101205">Non-linear multi-objective Bayesian MPC of water reservoir systems</a></strong><br>
-      <em>European Journal of Control, Volume 83, May 2025</em><br>
-      <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
-    </li>
-    <li>
-      <strong>Control-oriented modeling for MPC of water reservoir systems</strong><br>
-      <em>International Journal of Control</em><br>
-      <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
-    </li>
-    <li>
-      <strong>E-Private Mobility Index: A Novel Tool to Assess BEV Transition Feasibility</strong><br>
-      <em>Sustainability</em><br>
-      <em>S. Strada, R. G. Cestari, A. Pagliaroli, S. M. Savaresi</em>
     </li>
   </ul>
 </section>
