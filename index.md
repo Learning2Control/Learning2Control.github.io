@@ -16,7 +16,7 @@ title: Learning 2 Control
 </header>
 
 <div style="text-align: center;">
-<img src="assets/images/L2C_logo.png" alt="group picture" style="height: 500px; width: 500px;" />
+<img src="assets/images/L2C_logo.png" alt="group picture" style="height: 250px; width: 250px;" />
 </div>
 
 The Learning to Control lab (L2C-Lab) conducts innovative research in data-driven control systems, with a special focus on the automotive and financial domains. In the automotive sector, the aim is to enhance safety and sustainability using data-driven techniques. In finance, data-driven methods safely address challenges like risk assessment and portfolio optimization in real-world uncertain scenarios. L2C-Lab bridges theory and practice, developing real-world solutions through methodological research and practical experimentation. The ultimate goal of the lab is to shape the future of data-driven control systems and address pressing challenges in the above sectors while fostering innovation. Stay updated on the latest findings and projects!
