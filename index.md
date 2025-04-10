@@ -12,7 +12,7 @@ title: Learning 2 Control
 </nav>
 
 <header>
-  <h1>L2C</h1>
+  <h1>Learning 2 Control (L2C) Research Lab</h1>
 </header>
 
 <div style="text-align: center;">
