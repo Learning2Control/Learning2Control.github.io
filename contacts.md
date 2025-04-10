@@ -27,5 +27,7 @@ permalink: /contacts
     <li>simone.formentin@polimi.it</li>
     </ul></li>
     <li><a href="https://github.com/Learning2Control">GitHub</a></li>
+    <li><a href="https://formentin.faculty.polimi.it/">Prof. Formentin Polimi Web Page</a></li>
+    <li><a href="https://formentin.faculty.polimi.it/research-group/">L2C Polimi Web Page</a></li>
   </ul>
 </section>
