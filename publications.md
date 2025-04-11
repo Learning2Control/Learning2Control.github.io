@@ -83,7 +83,22 @@ permalink: /publications
     <li>
       <strong><a href="https://doi.org/10.1109/TMECH.2023.3292503">The Twin-in-the-Loop Approach for Vehicle Dynamics Control</a></strong><br>
       <em>IEEE/ASME Transactions on Mechatronics, vol. 29, no. 2, pages 1217{1228, April 2024</em><br>
-      <em>F. Dettu, S. Formentin, S.M. Savaresi</em>
+      <em>F. Dettù, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1080/00423114.2023.2290709">Joint vehicle state and parameters estimation via twin-in-the-loop observers</a></strong><br>
+      <em>Vehicle System Dynamics, vol. 1, pages 1{27, December 2023</em><br>
+      <em>F. Dettù, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/MCS.2023.3310368">AutoDDC: Hyperparameter Tuning for Direct Data-Driven Control</a></strong><br>
+      <em>IEEE Control Systems Magazine, vol. 43, no. 6, pages 98-124, December 2023</em><br>
+      <em>V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/TCST.2023.3279949">Active Preference Learning for vehicle suspensions calibration</a></strong><br>
+      <em>IEEE Transactions on Control Systems Technology, vol. 31, no. 6, pages 2961-2967, November 2023</em><br>
+      <em>E. Catenaro, A. Dubbini, S. Formentin, M. Corno, S.M. Savaresi</em>
     </li>
     <li>
       <strong><a href="https://doi.org/10.1016/j.ifacol.2023.12.043">Scenario-based model predictive control of water reservoir systems</a></strong><br>
