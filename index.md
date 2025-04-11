@@ -161,7 +161,7 @@ title: "Publications & Patents"
     </li>
     <li>
       <strong><a href="https://doi.org/10.1016/j.automatica.2022.110419">Kernel-based system identication with manifold regularization: a Bayesian perspective</a></strong><br>
-      <em>Automatica, vol. 142, pages 1{9, August 2022</em><br>
+      <em>Automatica, vol. 142, pages 1-9, August 2022</em><br>
       <em>M. Mazzoleni, A. Chiuso, M. Scandella, S. Formentin, F. Previdi</em>
     </li>
     <li>
@@ -170,10 +170,55 @@ title: "Publications & Patents"
       <em>F. Dettù, S. Formentin, S.M. Savaresi</em>
     </li>
     <li>
-      <strong><a href="https://doi.org/10.3390/agronomy12030590">Driving style assessment system for agricultural tractors: design and experimental validation</a></strong><br>
-      <em>Agronomy, vol. 12, no. 3, pages 1-22, 2022</em><br>
-      <em>F. Dettù, S. Formentin, S.M. Savaresi</em>
+      <strong><a href="https://doi.org/10.1080/00207179.2020.1868580">Direct data-driven design of LPV controllers with soft performance specifcations</a></strong><br>
+      <em>Journal of the Franklin Institute, vol. 359, no. 6, pages 816-836, 2022</em><br>
+      <em>M. van Meer, V. Breschi, T. Oomen, S. Formentin</em>
     </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.jfranklin.2021.04.052">Kernel-based identification of asymptotically stable continuous-time linear dynamical systems</a></strong><br>
+      <em>International Journal of Control, vol. 95, no. 6, pages 1668-1681, 2022</em><br>
+      <em>M. Scandella, M. Mazzoleni, S. Formentin, F. Previdi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1080/00207179.2020.1837395">Data-driven stock trading in financial markets: an adaptive control approach</a></strong><br>
+      <em>International Journal of Control, vol. 95, no. 4, pages 1032-1041, 2022</em><br>
+      <em>F. Abbracciavento, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.engappai.2021.104659">A kernel-based control approach for multi-period assets allocation based on lower partial moments</a></strong><br>
+      <em>IFAC Engineering Applications of Artificial Intelligence, vol. 110, pages 1-11, April 2022</em><br>
+      <em>M. Mazzoleni, G. Maroni, S. Formentin, F. Previdi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/TTE.2021.3114497">Electrification potential of fuel-based vehicles and optimal placing of charging infrastructure:a large-scale vehicle-telematics approach</a></strong><br>
+      <em>IEEE Transactions on Transportation Electrification, vol. 8, no. 1, pages 466-479, March 2022</em><br>
+      <em>F. Zinnari, S.C. Strada, M. Tanelli, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacsc.2022.100185">Learning-based hierarchical control of water reservoir systems</a></strong><br>
+      <em>IFAC Journal of Systems and Control, vol. 19, pages 1-10, March 2022</em><br>
+      <em>P. Kergus, S. Formentin, M. Giuliani, A. Castelletti</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacsc.2021.100161">Enhancing skyhook for semi-active suspension control via machine learning</a></strong><br>
+      <em>IFAC Journal of Systems and Control, vol. 17, pages 1-10, September 2021</em><br>
+      <em>G. Savaia, S. Formentin, G. Panzani, M. Corno, S.M. Savaresi</em>
+    </li>
+    <li>
+    <strong><a href="https://doi.org/10.1016/j.conengprac.2021.104826">Experimental automatic calibration of a semi-active suspension controller via Bayesian optimization</a></strong><br>
+    <em>Control Engineering Practice, vol. 112, pages 1-11, July 2021</em><br>
+    <em>G. Savaia, Y. Sohn, S. Formentin, M. Corno, G. Panzani, S.M. Savaresi</em>
+  </li>
+  <li>
+    <strong><a href="https://doi.org/10.1016/j.automatica.2021.109539">Control-oriented regularization for linear system identification</a></strong><br>
+    <em>Automatica, vol. 127, pages 1-10, May 2021</em><br>
+    <em>S. Formentin, A. Chiuso</em>
+  </li>
+  <li>
+    <strong><a href="https://doi.org/10.1016/j.mechatronics.2021.102492">h-TPMS: a hybrid tire pressure monitoring system for road vehicles</a></strong><br>
+    <em>IFAC Mechatronics, vol. 74, pages 1{9, April 2021</em><br>
+    <em>S. Formentin, L. Onesto, T. Colombo, S.M. Savaresi</em>
+  </li>
   </ul>
 </section>
 
