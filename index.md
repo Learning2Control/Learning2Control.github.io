@@ -15,6 +15,16 @@ title: "Publications & Patents"
 
   <ul>
     <li>
+      <strong>Bias correction and instrumental variables for direct data-driven model-reference control</strong><br>
+      <em>2025 European Control Conference (ECC)</em><br>
+      <em>M. Mejari, V. Breschi, S. Formentin, D. Piga</em>
+    </li>
+    <li>
+      <strong>Physics-aware learning of vehicle speed from accelerometer data</strong><br>
+      <em>2025 European Control Conference (ECC)</em><br>
+      <em>F. Dettù, S.C. Strada S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
       <strong>Univariate Hawkes-based cryptocurrency forecasting via LOB data</strong><br>
       <em>2025 European Control Conference (ECC)</em><br>
       <em>R. G. Cestari, F. Barchi, R. Busetto, D. Marazzina, S. Formentin</em>
@@ -23,6 +33,11 @@ title: "Publications & Patents"
       <strong>Enhancing portfolio covariance estimation: a hybrid prediction approach</strong><br>
       <em>2025 European Control Conference (ECC)</em><br>
       <em>R. G. Cestari, S. Chiodini, S. Formentin</em>
+    </li>
+    <li>
+      <strong>Automating the loop in traffic incident management on highway</strong><br>
+      <em>7th Annual Learning for Dynamics & Control Conference, Ann Arbor, Michigan, USA, 2025</em><br>
+      <em>M. Cercola, N. Gatti, P. Huertas Leyva, B. Carambia, S. Formentin</em>
     </li>
     <li>
       <strong>An Inverse Learning Paradigm for Controller Tuning Rules</strong><br>
@@ -55,9 +70,29 @@ title: "Publications & Patents"
       <em>R. Busetto, V. Breschi, S. Formentin</em>
     </li>
     <li>
+      <strong><a href="https://doi.org/10.1109/CDC56724.2024.10886117">A jump start to stock trading research for the uninitiated control scientist: a tutorial</a></strong><br>
+      <em>2024 IEEE 63rd Conference on Decision and Control (CDC)</em><br>
+      <em>B. Ross Barmish, S. Formentin, C.H. Hsieh, A.V. Proskurnikov, S. Warnick</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/CDC56724.2024.10885792">Automated Data-Driven MPC Design for a Class of Nonlinear Systems</a></strong><br>
+      <em>2024 IEEE 63rd Conference on Decision and Control (CDC)</em><br>
+      <em>G. Yang, M. Scandella, S. Formentin, T. Parisini</em>
+    </li>
+    <li>
       <strong><a href="https://doi.org/10.1109/CDC56724.2024.10886552">MPC with adaptive resilience for Denial-of-Service Attacks mitigation on a Regulated Dam</a></strong><br>
       <em>2024 IEEE 63rd Conference on Decision and Control (CDC)</em><br>
       <em>R. G. Cestari, S. Longari, S. Zanero, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.517">A comparison of indirect and direct filter designs from data for LTI systems: the effect of unknown noise covariance matrices</a></strong><br>
+      <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17–19, 2024</em><br>
+      <em>M. Mazzoleni, L. Maurelli, S. Formentin, F. Previdi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.554">Efficient tuning for motion control in diverse systems: a Bayesian framework</a></strong><br>
+      <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17–19, 2024</em><br>
+      <em>E. Catenaro, L. Aarnoudse, S. Formentin, T. Oomen</em>
     </li>
     <li>
       <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.535">Split-boost neural networks</a></strong><br>
@@ -68,6 +103,16 @@ title: "Publications & Patents"
       <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.584">Vertical load estimation in tractors via in-wheel optical sensing</a></strong><br>
       <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17–19, 2024</em><br>
       <em>R. G. Cestari, A. Lucchini, E. Leati, M. Norgia, S. Formentin, S. M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.553">Data-driven explicit predictive control with limited resources: an exploration-based strategy</a></strong><br>
+      <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17–19, 2024</em><br>
+      <em>A. Sassella, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.530">Iterative Feedback Tuning with automated reference model selection</a></strong><br>
+      <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17–19, 2024</em><br>
+      <em>T. Ickenroth, V. Breschi, T. Oomen, S. Formentin</em>
     </li>
     <li>
       <strong><a href="https://doi.org/10.1080/00207179.2024.2366428">Model predictive control for multi-period portfolio optimization: a trading-oriented learning approach</a></strong><br>
@@ -221,7 +266,7 @@ title: "Publications & Patents"
   </li>
   <li>
     <strong><a href="https://doi.org/10.1109/TAC.2020.2989769">A note on the numerical solutions of kernel-based learning problems</a></strong><br>
-    <em>IEEE Transactions on Automatic Control, vol. 66, no. 2, pages 940{947, February 2021</em><br>
+    <em>IEEE Transactions on Automatic Control, vol. 66, no. 2, pages 940-947, February 2021</em><br>
     <em>M. Scandella, M. Mazzoleni, S. Formentin, F. Previdi</em>
   </li>
   </ul>
