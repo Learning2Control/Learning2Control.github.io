@@ -16,11 +16,6 @@ permalink: /publications
 
   <ul>
     <li>
-      <strong><a href="https://www.researchgate.net/profile/Alessandro-Chiuso/publication/378803961_Harnessing_Uncertainty_for_a_Separation_Principle_in_Direct_Data-Driven_Predictive_Control/links/65eacff4aaf8d548dcb0cfc7/Harnessing-Uncertainty-for-a-Separation-Principle-in-Direct-Data-Driven-Predictive-Control.pdf">Harnessing the Final Control Error for Optimal Data-Driven Predictive Control</a></strong><br>
-      <em>Automatica, vol. 173, pages 1-14, March 2025</em><br>
-      <em>A. Chiuso, M. Fabris, V. Breschi, S. Formentin</em>
-    </li>
-    <li>
       <strong>Univariate Hawkes-based cryptocurrency forecasting via LOB data</strong><br>
       <em>2025 European Control Conference (ECC)</em><br>
       <em>R. G. Cestari, F. Barchi, R. Busetto, D. Marazzina, S. Formentin</em>
@@ -51,9 +46,19 @@ permalink: /publications
       <em>J. Leoni, V. Breschi, S. Formentin, M. Tanelli</em>
     </li>
     <li>
+      <strong><a href="https://www.researchgate.net/profile/Alessandro-Chiuso/publication/378803961_Harnessing_Uncertainty_for_a_Separation_Principle_in_Direct_Data-Driven_Predictive_Control/links/65eacff4aaf8d548dcb0cfc7/Harnessing-Uncertainty-for-a-Separation-Principle-in-Direct-Data-Driven-Predictive-Control.pdf">Harnessing the Final Control Error for Optimal Data-Driven Predictive Control</a></strong><br>
+      <em>Automatica, vol. 173, pages 1-14, March 2025</em><br>
+      <em>A. Chiuso, M. Fabris, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
       <strong><a href="https://doi.org/10.1016/j.automatica.2024.112006">Meta-learning for model-reference data-driven control</a></strong><br>
       <em>Automatica, vol. 172, pages 1-13, February 2025</em><br>
       <em>R. Busetto, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/CDC56724.2024.10886552">MPC with adaptive resilience for Denial-of-Service Attacks mitigation on a Regulated Dam</a></strong><br>
+      <em>2024 IEEE 63rd Conference on Decision and Control (CDC)</em><br>
+      <em>R. G. Cestari, S. Longari, S. Zanero, S. Formentin</em>
     </li>
     <li>
       <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.535">Split-boost neural networks</a></strong><br>
@@ -71,9 +76,14 @@ permalink: /publications
       <em>F. Abbracciavento, F. Tappi, S. Formentin</em>
     </li>
     <li>
-      <strong><a href="https://doi.org/10.1109/CDC56724.2024.10886552">MPC with adaptive resilience for Denial-of-Service Attacks mitigation on a Regulated Dam</a></strong><br>
-      <em>2024 IEEE 63rd Conference on Decision and Control (CDC)</em><br>
-      <em>R. G. Cestari, S. Longari, S. Zanero, S. Formentin</em>
+      <strong><a href="https://doi.org/10.3233/IDA-230971">Machine learning based car accident risk prediction for usage-based insurance</a></strong><br>
+      <em>Intelligent Data Analysis, vol. 1, pages 1-18, June 2024</em><br>
+      <em>S.C. Strada, E. Costantini, S. Formentin, S.M. Savaresi, C. De Tommasi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/TMECH.2023.3292503">The Twin-in-the-Loop Approach for Vehicle Dynamics Control</a></strong><br>
+      <em>IEEE/ASME Transactions on Mechatronics, vol. 29, no. 2, pages 1217{1228, April 2024</em><br>
+      <em>F. Dettu, S. Formentin, S.M. Savaresi</em>
     </li>
     <li>
       <strong><a href="https://doi.org/10.1016/j.ifacol.2023.12.043">Scenario-based model predictive control of water reservoir systems</a></strong><br>
