@@ -1,22 +1,188 @@
 ---
 layout: default
-title: Learning 2 Control (L2C) Research Lab
+title: "Publications & Patents"
 ---
 
-<nav>
+<style>
+  #publications ul > li {
+    margin-bottom: 1.2em;
+  }
+</style>
+
+
+<section id="publications">
+  <h2>Publications</h2>
+
   <ul>
-    <li><a href="{{ site.baseurl }}/collaborations">Collaborations</a></li>
-    <li><a href="{{ site.baseurl }}/contacts">Contacts</a></li>
-    <li><a href="{{ site.baseurl }}/publications">Publications & Patents</a></li>
+    <li>
+      <strong>Univariate Hawkes-based cryptocurrency forecasting via LOB data</strong><br>
+      <em>2025 European Control Conference (ECC)</em><br>
+      <em>R. G. Cestari, F. Barchi, R. Busetto, D. Marazzina, S. Formentin</em>
+    </li>
+    <li>
+      <strong>Enhancing portfolio covariance estimation: a hybrid prediction approach</strong><br>
+      <em>2025 European Control Conference (ECC)</em><br>
+      <em>R. G. Cestari, S. Chiodini, S. Formentin</em>
+    </li>
+    <li>
+      <strong>An Inverse Learning Paradigm for Controller Tuning Rules</strong><br>
+      <em>Automatica, 2025</em><br>
+      <em>B. Lakshminarayanan, F. Dettù, C.R. Rojas, S. Formentin </em>
+    </li>
+    <li>
+      <strong>Control-oriented modeling for MPC of water reservoir systems</strong><br>
+      <em>International Journal of Control, 2025</em><br>
+      <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ejcon.2025.101205">Non-linear multi-objective Bayesian MPC of water reservoir systems</a></strong><br>
+      <em>European Journal of Control, Volume 83, May 2025</em><br>
+      <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.automatica.2024.112066">Explainable data-driven modeling via mixture of experts: towards effective blending of grey and black-box models</a></strong><br>
+      <em>Automatica, vol. 173, pages 1-15, March 2025</em><br>
+      <em>J. Leoni, V. Breschi, S. Formentin, M. Tanelli</em>
+    </li>
+    <li>
+      <strong><a href="https://www.researchgate.net/profile/Alessandro-Chiuso/publication/378803961_Harnessing_Uncertainty_for_a_Separation_Principle_in_Direct_Data-Driven_Predictive_Control/links/65eacff4aaf8d548dcb0cfc7/Harnessing-Uncertainty-for-a-Separation-Principle-in-Direct-Data-Driven-Predictive-Control.pdf">Harnessing the Final Control Error for Optimal Data-Driven Predictive Control</a></strong><br>
+      <em>Automatica, vol. 173, pages 1-14, March 2025</em><br>
+      <em>A. Chiuso, M. Fabris, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.automatica.2024.112006">Meta-learning for model-reference data-driven control</a></strong><br>
+      <em>Automatica, vol. 172, pages 1-13, February 2025</em><br>
+      <em>R. Busetto, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/CDC56724.2024.10886552">MPC with adaptive resilience for Denial-of-Service Attacks mitigation on a Regulated Dam</a></strong><br>
+      <em>2024 IEEE 63rd Conference on Decision and Control (CDC)</em><br>
+      <em>R. G. Cestari, S. Longari, S. Zanero, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.535">Split-boost neural networks</a></strong><br>
+      <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17–19, 2024</em><br>
+      <em>R. G. Cestari, G. Maroni, L. Cannelli, D. Piga, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2024.08.584">Vertical load estimation in tractors via in-wheel optical sensing</a></strong><br>
+      <em>20th IFAC Symposium on System Identification SYSID 2024: Boston, United States, July 17–19, 2024</em><br>
+      <em>R. G. Cestari, A. Lucchini, E. Leati, M. Norgia, S. Formentin, S. M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1080/00207179.2024.2366428">Model predictive control for multi-period portfolio optimization: a trading-oriented learning approach</a></strong><br>
+      <em>International Journal of Control, vol. 1, pages 1-11, June 2024</em><br>
+      <em>F. Abbracciavento, F. Tappi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.3233/IDA-230971">Machine learning based car accident risk prediction for usage-based insurance</a></strong><br>
+      <em>Intelligent Data Analysis, vol. 1, pages 1-18, June 2024</em><br>
+      <em>S.C. Strada, E. Costantini, S. Formentin, S.M. Savaresi, C. De Tommasi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/TMECH.2023.3292503">The Twin-in-the-Loop Approach for Vehicle Dynamics Control</a></strong><br>
+      <em>IEEE/ASME Transactions on Mechatronics, vol. 29, no. 2, pages 1217{1228, April 2024</em><br>
+      <em>F. Dettù, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1080/00423114.2023.2290709">Joint vehicle state and parameters estimation via twin-in-the-loop observers</a></strong><br>
+      <em>Vehicle System Dynamics, vol. 1, pages 1{27, December 2023</em><br>
+      <em>F. Dettù, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/MCS.2023.3310368">AutoDDC: Hyperparameter Tuning for Direct Data-Driven Control</a></strong><br>
+      <em>IEEE Control Systems Magazine, vol. 43, no. 6, pages 98-124, December 2023</em><br>
+      <em>V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/TCST.2023.3279949">Active Preference Learning for vehicle suspensions calibration</a></strong><br>
+      <em>IEEE Transactions on Control Systems Technology, vol. 31, no. 6, pages 2961-2967, November 2023</em><br>
+      <em>E. Catenaro, A. Dubbini, S. Formentin, M. Corno, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2023.12.043">Scenario-based model predictive control of water reservoir systems</a></strong><br>
+      <em>3rd Modeling, Estimation and Control Conference MECC 2023: Lake Tahoe, USA, October 2–5, 2023</em><br>
+      <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.automatica.2023.111110">Auto-tuning of reference models in direct data-driven control</a></strong><br>
+      <em>Automatica, vol. 155, pages 1-11, September 2023</em><br>
+      <em>D. Masti, V. Breschi, S. Formentin, A. Bemporad</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/TAC.2022.3219346">On the Design of Regularized Explicit Predictive Controllers From Input–Output Data</a></strong><br>
+      <em>IEEE Transactions on Automatic Control, vol. 68, no. 8, pages 4977 - 4983, August 2023</em><br>
+      <em>A. Sassella, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/LCSYS.2023.3285424">Data-Driven Model-Reference Control With Closed-Loop Stability: The Output-Feedback Case</a></strong><br>
+      <em>IEEE Control Systems Letters, vol. 7, pages 2431 - 2436, June 2023</em><br>
+      <em>T.O. de Jong, V. Breschi, M. Schoukens, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.automatica.2023.110961">Data-driven predictive control in a stochastic setting: a unified framework</a></strong><br>
+      <em>Automatica, vol. 152, pages 1-16, June 2023</em><br>
+      <em>V. Breschi, A. Chiuso, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/LCSYS.2023.3266254">Data-driven stabilization of input-saturated systems</a></strong><br>
+      <em>IEEE Control Systems Letters, vol. 7, pages 1640 - 1645, April 2023</em><br>
+      <em>V. Breschi, L. Zaccarian, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href=" https://doi.org/10.1002/rnc.6579">Data-driven mixed-sensitivity control with automated weighting functions selection</a></strong><br>
+      <em>International Journal of Robust and Nonlinear Control, vol. 33, no. 6, pages 3458-3470, April 2023</em><br>
+      <em>N. Valceschini, M. Mazzoleni, S. Formentin, F. Previdi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/LCSYS.2023.3258913">Data-driven design of explicit predictive controllers with structural priors</a></strong><br>
+      <em>IEEE Control Systems Letters, vol. 7, pages 1616 - 1621, March 2023</em><br>
+      <em>V. Breschi, A. Sassella, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacsc.2022.100214">Multi-intersection traffic signal control: a decentralized MPC-based approach</a></strong><br>
+      <em>IFAC Journal of Systems and Control, vol. 23, pages 1-10, March 2023</em><br>
+      <em>F. Abbracciavento, F. Zinnari, S. Formentin, A.G. Bianchessi, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacsc.2022.100211">On optimal gear shifting in city bicycles</a></strong><br>
+      <em>IFAC Journal of Systems and Control, vol. 22, pages 1-11, December 2022</em><br>
+      <em>D. Savaresi, F. Dettù, C. Benzoni, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.nahs.2022.101220">A data-driven switching control approach for braking systems with constraints</a></strong><br>
+      <em>Nonlinear Analysis: Hybrid Systems, vol. 46, pages 1-19, November 2022</em><br>
+      <em>A. Sassella, V. Breschi, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2022.11.002">Hourly operation of a regulated lake via Model Predictive Control</a></strong><br>
+      <em>2nd IFAC Workshop on Control Methods for Water Resource Systems CMWRS 2022: Milano, Italy, September 22–23, 2022</em><br>
+      <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.automatica.2022.110419">Kernel-based system identication with manifold regularization: a Bayesian perspective</a></strong><br>
+      <em>Automatica, vol. 142, pages 1{9, August 2022</em><br>
+      <em>M. Mazzoleni, A. Chiuso, M. Scandella, S. Formentin, F. Previdi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.3390/agronomy12030590">Driving style assessment system for agricultural tractors: design and experimental validation</a></strong><br>
+      <em>Agronomy, vol. 12, no. 3, pages 1-22, 2022</em><br>
+      <em>F. Dettù, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.3390/agronomy12030590">Driving style assessment system for agricultural tractors: design and experimental validation</a></strong><br>
+      <em>Agronomy, vol. 12, no. 3, pages 1-22, 2022</em><br>
+      <em>F. Dettù, S. Formentin, S.M. Savaresi</em>
+    </li>
   </ul>
-</nav>
+</section>
 
-<header>
-  <h1>About the Lab</h1>
-</header>
-
-<div style="text-align: center;">
-<img src="assets/images/L2C_logo.png" alt="group picture" style="height: 250px; width: 250px;" />
-</div>
-
-The Learning to Control lab (L2C-Lab) conducts innovative research in data-driven control systems, with a special focus on the automotive and financial domains. In the automotive sector, the aim is to enhance safety and sustainability using data-driven techniques. In finance, data-driven methods safely address challenges like risk assessment and portfolio optimization in real-world uncertain scenarios. L2C-Lab bridges theory and practice, developing real-world solutions through methodological research and practical experimentation. The ultimate goal of the lab is to shape the future of data-driven control systems and address pressing challenges in the above sectors while fostering innovation. Stay updated on the latest findings and projects!
+<section id="patents">
+  <h2>Patents</h2>
+  <ul>
+    <li>
+      <a href="https://hdl.handle.net/11311/1282026"><strong>Misurare un carico su un veicolo agricolo</strong></a><br>
+      <em>A. Lucchini, S. M. Savaresi, S. Formentin, M. Norgia, R. G. Cestari, F. Cavedo</em>
+    </li>
+  </ul>
+</section>
