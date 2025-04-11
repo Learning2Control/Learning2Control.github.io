@@ -216,8 +216,13 @@ title: "Publications & Patents"
   </li>
   <li>
     <strong><a href="https://doi.org/10.1016/j.mechatronics.2021.102492">h-TPMS: a hybrid tire pressure monitoring system for road vehicles</a></strong><br>
-    <em>IFAC Mechatronics, vol. 74, pages 1{9, April 2021</em><br>
+    <em>IFAC Mechatronics, vol. 74, pages 1-9, April 2021</em><br>
     <em>S. Formentin, L. Onesto, T. Colombo, S.M. Savaresi</em>
+  </li>
+  <li>
+    <strong><a href="https://doi.org/10.1109/TAC.2020.2989769">A note on the numerical solutions of kernel-based learning problems</a></strong><br>
+    <em>IEEE Transactions on Automatic Control, vol. 66, no. 2, pages 940{947, February 2021</em><br>
+    <em>M. Scandella, M. Mazzoleni, S. Formentin, F. Previdi</em>
   </li>
   </ul>
 </section>
