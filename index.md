@@ -407,6 +407,36 @@ title: "Publications & Patents"
       <em>G. Riva, S. Formentin, S.M. Savaresi</em>
     </li>
     <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2021.08.339">Anomaly detection via distributed sensing: a VAR modeling approach</a></strong><br>
+      <em>19th IFAC Symposium on System Identification, Padova, Italy, 2021, pages 85-90</em><br>
+      <em>F. Abbracciavento, S. Formentin, J. Balocco, A. Rota, V. Manzoni, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2021.08.396">Piecewise nonlinear regression with data augmentation</a></strong><br>
+      <em>19th IFAC Symposium on System Identification, Padova, Italy, 2021, pages 85-90</em><br>
+      <em>M. Mazzoleni, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.23919/ACC50511.2021.9482806">Direct data-driven design of switching controllers for constrained systems</a></strong><br>
+      <em>IEEE American Control Conference, New Orleans (LA), USA, 2021.</em><br>
+      <em>A. Sassella, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.23919/ACC50511.2021.9482777">On damping ratio estimation in electronic semi-active suspensions</a></strong><br>
+      <em>IEEE American Control Conference, New Orleans (LA), USA, 2021.</em><br>
+      <em>D. Savaresi, M. Chini, S. Formentin, M. Konishi, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.23919/ACC50511.2021.9483368">Data-driven Mass Estimation in Continuously Variable Transmission Agricultural Tractors</a></strong><br>
+      <em>IEEE American Control Conference, New Orleans (LA), USA, 2021.</em><br>
+      <em>D. Savaresi, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2021.06.062">Proper closed-loop specifications for data-driven model-reference control</a></strong><br>
+      <em>24th International Symposium on Mathematical Theory of Networks and Systems, Cambridge, UK, 2021, pages 46-51</em><br>
+      <em>V. Breschi, S. Formentin</em>
+    </li>
+    <li>
       <strong><a href="https://doi.org/10.1016/j.ifacsc.2021.100161">Enhancing skyhook for semi-active suspension control via machine learning</a></strong><br>
       <em>IFAC Journal of Systems and Control, vol. 17, pages 1-10, September 2021</em><br>
       <em>G. Savaia, S. Formentin, G. Panzani, M. Corno, S.M. Savaresi</em>
@@ -439,7 +469,43 @@ title: "Publications & Patents"
   <ul>
     <li>
       <a href="https://hdl.handle.net/11311/1282026"><strong>Misurare un carico su un veicolo agricolo</strong></a><br>
+      <em>CNH Industrial S.p.A. and Politecnico di Milano, 102024000013171, 2024</em>
       <em>A. Lucchini, S. M. Savaresi, S. Formentin, M. Norgia, R. G. Cestari, F. Cavedo</em>
+    </li>
+    <li>
+      <a href="https://hdl.handle.net/11311/1129467"><strong>Procedimento per la stima della pressione degli pneumatici di un veicolo</strong></a><br>
+      <em>Maserati S.p.A. and Politecnico di Milano, 102018000020212, 2018 </em>
+      <em>T. Colombo, S. Formentin, A. Pozzato, S.M. Savaresi</em>
+    </li>
+    <li>
+      <a href="https://hdl.handle.net/11311/1066069"><strong>Metodo di stima di una forza frenante esercitabile tra pastiglia e disco freno da un sistema elettrico di frenatura di stazionamento di un veicolo e sistema elettrico di frenatura di stazionamento di un veicolo implementante tale metodo</strong></a><br>
+      <em>Brembo S.p.A. and Politecnico di Milano, 102017000086468, 2017 </em>
+      <em>S. Dossi, A. Tarantini, G. Calamai, G. Rallo, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <a href="https://hdl.handle.net/11311/1066067"><strong>Dispositivo e metodo per la determinazione della potenza impressa sui pedali di una bicicletta</strong></a><br>
+      <em>Favero Electronics S.r.l. and Politecnico di Milano, 102017000086468, 2017 </em>
+      <em>S.M. Savaresi, G. Favero, S. Formentin, D. Nava</em>
+    </li>
+    <li>
+      <a href="https://hdl.handle.net/11311/1066067"><strong>Dispositivo e metodo per la determinazione della potenza impressa sui pedali di una bicicletta</strong></a><br>
+      <em>Favero Electronics S.r.l. and Politecnico di Milano, 102017000043114, 2017 </em>
+      <em>S.M. Savaresi, G. Favero, S. Formentin, D. Nava</em>
+    </li>
+     <li>
+      <a href="https://hdl.handle.net/11311/1042168"><strong>Dispositivo per la determinazione di una grandezza cinematica di una bicicletta e della cadenza di pedalata esercitata sui pedali di detta bicicletta</strong></a><br>
+      <em>E-Novia S.r.l. and Politecnico di Milano, 102015000076011, 2015 </em>
+      <em>S. Formentin, M. Corno, S.M. Savaresi, G. Rallo</em>
+    </li>
+    <li>
+      <a href="https://hdl.handle.net/11311/86755"><strong>Metodo per la predizione della distanza utente-veicolo in servizi car-sharing on-demand</strong></a><br>
+      <em>Politecnico di Milano, VI2014A000187, 2014 </em>
+      <em>S.M. Savaresi, S. Formentin, A.G. Bianchessi</em>
+    </li>
+    <li>
+      <a href="https://hdl.handle.net/11311/545246"><strong>Sistema e metodo di controllo della trazione in un veicolo a due ruote</strong></a><br>
+      <em>Piaggio Group S.p.A. and Politecnico di Milano, MI2009A0010134, 2009 </em>
+      <em>S.M. Savaresi, M. Corno, S. Formentin, L. Fabbri</em>
     </li>
   </ul>
 </section>
