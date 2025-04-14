@@ -17,7 +17,7 @@ permalink: /thesis
     <li>
       <strong>Man-in-the-Middle (MiTM) Attack Detection</strong><br>
       <em>Development of MITM attacks detection algorithms for Resilient Predictive Control [Cybersecurity/ML]</em><br>
-      <em>Kali Linux - Python - PyTorch - IoT Sensor Networks</em><br>
+      <em>Kali Linux - Python - PyTorch/Tensorflow - Wireshark </em><br>
       <ul>
       <li>
       <em>Experimental deployment on actual networks</em><br>
