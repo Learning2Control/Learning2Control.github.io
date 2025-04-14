@@ -9,6 +9,12 @@ title: "Publications & Patents"
   }
 </style>
 
+<style>
+  #patents ul > li {
+    margin-bottom: 1.2em;
+  }
+</style>
+
 
 <section id="publications">
   <h2>Publications</h2>
