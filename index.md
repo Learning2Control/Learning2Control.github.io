@@ -485,32 +485,32 @@ title: "Publications & Patents"
     </li>
     <li>
       <a href="https://hdl.handle.net/11311/1066069"><strong>Metodo di stima di una forza frenante esercitabile tra pastiglia e disco freno da un sistema elettrico di frenatura di stazionamento di un veicolo e sistema elettrico di frenatura di stazionamento di un veicolo implementante tale metodo</strong></a><br>
-      <em>Brembo S.p.A. and Politecnico di Milano, 102017000086468, 2017 </em>
+      <em>Brembo S.p.A. and Politecnico di Milano, 102017000086468, 2017 </em><br>
       <em>S. Dossi, A. Tarantini, G. Calamai, G. Rallo, S. Formentin, S.M. Savaresi</em>
     </li>
     <li>
       <a href="https://hdl.handle.net/11311/1066067"><strong>Dispositivo e metodo per la determinazione della potenza impressa sui pedali di una bicicletta</strong></a><br>
-      <em>Favero Electronics S.r.l. and Politecnico di Milano, 102017000086468, 2017 </em>
+      <em>Favero Electronics S.r.l. and Politecnico di Milano, 102017000086468, 2017 </em><br>
       <em>S.M. Savaresi, G. Favero, S. Formentin, D. Nava</em>
     </li>
     <li>
       <a href="https://hdl.handle.net/11311/1066067"><strong>Dispositivo e metodo per la determinazione della potenza impressa sui pedali di una bicicletta</strong></a><br>
-      <em>Favero Electronics S.r.l. and Politecnico di Milano, 102017000043114, 2017 </em>
+      <em>Favero Electronics S.r.l. and Politecnico di Milano, 102017000043114, 2017 </em><br>
       <em>S.M. Savaresi, G. Favero, S. Formentin, D. Nava</em>
     </li>
      <li>
       <a href="https://hdl.handle.net/11311/1042168"><strong>Dispositivo per la determinazione di una grandezza cinematica di una bicicletta e della cadenza di pedalata esercitata sui pedali di detta bicicletta</strong></a><br>
-      <em>E-Novia S.r.l. and Politecnico di Milano, 102015000076011, 2015 </em>
+      <em>E-Novia S.r.l. and Politecnico di Milano, 102015000076011, 2015 </em><br>
       <em>S. Formentin, M. Corno, S.M. Savaresi, G. Rallo</em>
     </li>
     <li>
       <a href="https://hdl.handle.net/11311/86755"><strong>Metodo per la predizione della distanza utente-veicolo in servizi car-sharing on-demand</strong></a><br>
-      <em>Politecnico di Milano, VI2014A000187, 2014 </em>
+      <em>Politecnico di Milano, VI2014A000187, 2014 </em><br>
       <em>S.M. Savaresi, S. Formentin, A.G. Bianchessi</em>
     </li>
     <li>
       <a href="https://hdl.handle.net/11311/545246"><strong>Sistema e metodo di controllo della trazione in un veicolo a due ruote</strong></a><br>
-      <em>Piaggio Group S.p.A. and Politecnico di Milano, MI2009A0010134, 2009 </em>
+      <em>Piaggio Group S.p.A. and Politecnico di Milano, MI2009A0010134, 2009 </em><br>
       <em>S.M. Savaresi, M. Corno, S. Formentin, L. Fabbri</em>
     </li>
   </ul>
