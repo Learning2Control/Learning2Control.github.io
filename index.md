@@ -151,8 +151,18 @@ title: "Publications & Patents"
     <h2>2023</h2>
     <ul>
     <li>
+      <strong><a href="https://doi.org/10.1109/CDC49753.2023.10383592">META-SMGO-: Similarity as a Prior in Black-Box Optimization</a></strong><br>
+      <em>2023 62nd IEEE Conference on Decision and Control (CDC), 2023</em><br>
+      <em>R. Busetto, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/CDC49753.2023.10383820">On the impact of regularization in data-driven predictive control</a></strong><br>
+      <em>2023 62nd IEEE Conference on Decision and Control (CDC), 2023</em><br>
+      <em>V. Breschi, A. Chiuso, M. Fabris, S. Formentin</em>
+    </li>
+    <li>
       <strong><a href="https://doi.org/10.1080/00423114.2023.2290709">Joint vehicle state and parameters estimation via twin-in-the-loop observers</a></strong><br>
-      <em>Vehicle System Dynamics, vol. 1, pages 1{27, December 2023</em><br>
+      <em>Vehicle System Dynamics, vol. 1, pages 1-27, December 2023</em><br>
       <em>F. Dettù, S. Formentin, S.M. Savaresi</em>
     </li>
     <li>
@@ -166,9 +176,54 @@ title: "Publications & Patents"
       <em>E. Catenaro, A. Dubbini, S. Formentin, M. Corno, S.M. Savaresi</em>
     </li>
     <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2023.12.045">Model-based and Koopman-based predictive control: a braking control systems comparison</a></strong><br>
+      <em>3rd Modeling, Estimation and Control Conference MECC 2023: Lake Tahoe, USA, October 2–5, 2023</em><br>
+      <em>A. Sassella, V. Breschi, M. Korda, S. Formentin</em>
+    </li>
+    <li>
       <strong><a href="https://doi.org/10.1016/j.ifacol.2023.12.043">Scenario-based model predictive control of water reservoir systems</a></strong><br>
       <em>3rd Modeling, Estimation and Control Conference MECC 2023: Lake Tahoe, USA, October 2–5, 2023</em><br>
       <em>R. G. Cestari, A. Castelletti, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2023.12.008">Tuning of subspace predictive controls</a></strong><br>
+      <em>3rd Modeling, Estimation and Control Conference MECC 2023: Lake Tahoe, USA, October 2–5, 2023</em><br>
+      <em>V. Breschi, T. Bou Hamdan, G. Mercère, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/CCTA54093.2023.10252316">Cross-Coupled SLS for pairs trading: an adaptive control approach</a></strong><br>
+      <em>7th IEEE Conference on Control Technology and Applications, Bridgetown, Barbados, 2023</em><br>
+      <em>F. Abbracciavento, E. Catenaro, A. Ticozzi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2023.10.878">Uncertainty-aware data-driven predictive control in a stochastic setting</a></strong><br>
+      <em>22nd IFAC World Congress, Yokohama, Japan, 2023</em><br>
+      <em>V. Breschi, M. Fabris, S. Formentin, A. Chiuso</em>
+    </li>
+     <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2023.10.1795">A practitioner's guide to noise handling strategies in data-driven predictive control</a></strong><br>
+      <em>22nd IFAC World Congress, Yokohama, Japan, 2023</em><br>
+      <em>A. Sassella, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2023.10.1092">Robust tuning of Twin-in-the-Loop vehicle dynamics controls via randomized optimization</a></strong><br>
+      <em>22nd IFAC World Congress, Yokohama, Japan, 2023</em><br>
+      <em>F. Dettù, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2023.10.552">Practical considerations in reinforcement learning-based MPC for mobile robots</a></strong><br>
+      <em>22nd IFAC World Congress, Yokohama, Japan, 2023</em><br>
+      <em>R. Busetto, V. Breschi, G. Vaccari, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2023.10.218">Continuous-time modeling of financial returns based on Limit Order Book data</a></strong><br>
+      <em>22nd IFAC World Congress, Yokohama, Japan, 2023</em><br>
+      <em>R. Busetto, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.23919/ACC55779.2023.10156258">On queue length estimation in urban traffic intersections via inductive loops</a></strong><br>
+      <em>IEEE American Control Conference, San Diego (CA), USA, 2023</em><br>
+      <em>A. Sassella, F. Abbracciavento, S. Formentin, A.G. Bianchessi, S.M. Savaresi</em>
     </li>
     <li>
       <strong><a href="https://doi.org/10.1016/j.automatica.2023.111110">Auto-tuning of reference models in direct data-driven control</a></strong><br>
@@ -209,6 +264,44 @@ title: "Publications & Patents"
       <strong><a href="https://doi.org/10.1016/j.ifacsc.2022.100214">Multi-intersection traffic signal control: a decentralized MPC-based approach</a></strong><br>
       <em>IFAC Journal of Systems and Control, vol. 23, pages 1-10, March 2023</em><br>
       <em>F. Abbracciavento, F. Zinnari, S. Formentin, A.G. Bianchessi, S.M. Savaresi</em>
+    </li>
+    </ul>
+    <ul>
+    <h2>2022</h2>
+    <li>
+      <strong><a href="https://doi.org/10.1109/CDC51059.2022.9993004">Data-driven design of explicit predictive controllers</a></strong><br>
+      <em>61st IEEE Conference on Decision and Control, Cancùn, Mexico, 2022</em><br>
+      <em>A. Sassella, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/CDC51059.2022.9993053">Kelly-based stock trading via feedback control</a></strong><br>
+      <em>61st IEEE Conference on Decision and Control, Cancùn, Mexico, 2022</em><br>
+      <em>F. Dettù, F. Abbracciavento, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.4230/OASIcs.NG-RES.2022.3">Overlapping-Horizon MPC: A Novel Approach to Computational Constraints in Real-Time Predictive Control</a></strong><br>
+      <em>Workshop on Next Generation Real-Time Embedded Systems (NG-RES), Budapest, Hungary, 2022</em><br>
+      <em>A. Leva, S. Formentin, S. Seva</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2022.09.225">A receding-horizon approach for curriculum management in higher education</a></strong><br>
+      <em>13th IFAC Symposium on Advances in Control Education, Hamburg, Germany, 2022</em><br>
+      <em>T.N. Larsen, R. Busetto, D. Varagnolo, S. Formentin, A. Rasheed</em>
+    </li>
+    <li>
+      <strong><a href="https://proceedings.mlr.press/v168/sassella22a.html">Noise handling in data-driven predictive control: a strategy based on dynamic mode decomposition</a></strong><br>
+      <em>4th Annual Conference on Learning for Dynamics and Control, Stanford (CA), USA, 2022</em><br>
+      <em>A. Sassella, V. Breschi, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.23919/ECC55457.2022.9838017">A receding-horizon estimation and control framework for the content sequencing problem</a></strong><br>
+      <em>European Control Conference (ECC), London, UK, 2022</em><br>
+      <em>R. Busetto, T.N. Larsen, A. Rasheed, D. Varagnolo, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.23919/ECC55457.2022.9838164">Auto-calibration with stability margins for active damping control in electric drivelines</a></strong><br>
+      <em>European Control Conference (ECC), London, UK, 2022</em><br>
+      <em>E. Catenaro, S. Formentin, M. Corno, S.M. Savaresi</em>
     </li>
     <li>
       <strong><a href="https://doi.org/10.1016/j.ifacsc.2022.100211">On optimal gear shifting in city bicycles</a></strong><br>
@@ -264,6 +357,54 @@ title: "Publications & Patents"
       <strong><a href="https://doi.org/10.1016/j.ifacsc.2022.100185">Learning-based hierarchical control of water reservoir systems</a></strong><br>
       <em>IFAC Journal of Systems and Control, vol. 19, pages 1-10, March 2022</em><br>
       <em>P. Kergus, S. Formentin, M. Giuliani, A. Castelletti</em>
+    </li>
+    </ul>
+    <h2>2021</h2>
+    <ul>
+    <li>
+      <strong><a href="https://doi.org/10.1109/CDC45484.2021.9683437">Direct data-driven model-reference control with Lyapunov stability guarantees</a></strong><br>
+      <em>60th IEEE Conference on Decision and Control, Austin (TX), USA, 2021</em><br>
+      <em>V. Breschi, C. De Persis, S. Formentin, P. Tesi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/CDC45484.2021.9683649">Real-time optimal traffic management in signal-controlled intersections: a receding-horizon approach</a></strong><br>
+      <em>60th IEEE Conference on Decision and Control, Austin (TX), USA, 2021</em><br>
+      <em>F. Abbracciavento, F. Zinnari, S. Formentin, A.G. Bianchessi, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2021.11.253">Nonparametric continuous-time identication of linear systems: theory, implementation and experimental results</a></strong><br>
+      <em>Modeling, Estimation and Control Conference, Austin (TX), USA, 2021</em><br>
+      <em>M. Mazzoleni, M. Scandella, S. Formentin, F. Previdi</em>
+    </li>
+     <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2021.11.163">Model-based estimation of the line tension in a fishing reel</a></strong><br>
+      <em>Modeling, Estimation and Control Conference, Austin (TX), USA, 2021</em><br>
+      <em>F. Dettù, M. Centurioni, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2021.10.349">On speed estimation from incremental encoders with tunable error bounds</a></strong><br>
+      <em>3rd IFAC Conference on Modelling, Identification and Control of Nonlinear Systems, online, 2021</em><br>
+      <em>D. Savaresi, M. Centurioni, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2021.08.590">Direct data-driven LPV control for active braking in aircraft</a></strong><br>
+      <em>4th IFAC Symposium on Linear Parameter Varying Systems (LPVS), Milan, Italy, 2021</em><br>
+      <em>G. Papa, V. Breschi, M. Tanelli, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1016/j.ifacol.2021.08.587">On data-driven design of LPV controllers with flexible reference model</a></strong><br>
+      <em>4th IFAC Symposium on Linear Parameter Varying Systems (LPVS), Milan, Italy, 2021</em><br>
+      <em>V. Breschi, M. van Meer, T. Oomen, S. Formentin</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/CCTA48906.2021.9659248">Design and implementation of a MPC-based rear-wheel steering controller for sports cars</a></strong><br>
+      <em> 2021 IEEE Conference on Control Technology and Applications (CCTA), San Diego (CA), USA, 2021</em><br>
+      <em>A. Lucchini, F. Paganelli Azza, M. Corno, S. Formentin, S.M. Savaresi</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.1109/CCTA48906.2021.9659184">Force estimation in electro-mechanical systems: theory and experiments</a></strong><br>
+      <em> 2021 IEEE Conference on Control Technology and Applications (CCTA), San Diego (CA), USA, 2021</em><br>
+      <em>G. Riva, S. Formentin, S.M. Savaresi</em>
     </li>
     <li>
       <strong><a href="https://doi.org/10.1016/j.ifacsc.2021.100161">Enhancing skyhook for semi-active suspension control via machine learning</a></strong><br>
