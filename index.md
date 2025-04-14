@@ -12,7 +12,7 @@ title: "Publications & Patents"
 
 <section id="publications">
   <h2>Publications</h2>
-
+  <h2>2025</h2>
   <ul>
     <li>
       <strong>Bias correction and instrumental variables for direct data-driven model-reference control</strong><br>
@@ -69,6 +69,9 @@ title: "Publications & Patents"
       <em>Automatica, vol. 172, pages 1-13, February 2025</em><br>
       <em>R. Busetto, V. Breschi, S. Formentin</em>
     </li>
+    </ul>
+    <h2>2024</h2>
+    <ul>
     <li>
       <strong><a href="https://doi.org/10.1109/CDC56724.2024.10886117">A jump start to stock trading research for the uninitiated control scientist: a tutorial</a></strong><br>
       <em>2024 IEEE 63rd Conference on Decision and Control (CDC)</em><br>
@@ -126,9 +129,27 @@ title: "Publications & Patents"
     </li>
     <li>
       <strong><a href="https://doi.org/10.1109/TMECH.2023.3292503">The Twin-in-the-Loop Approach for Vehicle Dynamics Control</a></strong><br>
-      <em>IEEE/ASME Transactions on Mechatronics, vol. 29, no. 2, pages 1217{1228, April 2024</em><br>
+      <em>IEEE/ASME Transactions on Mechatronics, vol. 29, no. 2, pages 1217-1228, April 2024</em><br>
       <em>F. Dettù, S. Formentin, S.M. Savaresi</em>
     </li>
+    <li>
+      <strong><a href="https://doi.org/10.23919/ECC64448.2024.10591185">From data to control: a two-stage simulation-based approach</a></strong><br>
+      <em>2024 European Control Conference (ECC), 2024</em><br>
+      <em>F. Dettù, B. Lakshminarayanan, S. Formentin, C.R. Rojas</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.23919/ECC64448.2024.10590931">AAutomated Data-Driven Tuning of Learning-Based Model Predictive Control (SelfMPC): A Maximum-Likelihood Approach</a></strong><br>
+      <em>2024 European Control Conference (ECC), 2024</em><br>
+      <em>G. Yang, M. Scandella, S. Formentin, T. Parisini</em>
+    </li>
+    <li>
+      <strong><a href="https://doi.org/10.23919/ECC64448.2024.10590931">AAutomated Data-Driven Tuning of Learning-Based Model Predictive Control (SelfMPC): A Maximum-Likelihood Approach</a></strong><br>
+      <em>2024 European Control Conference (ECC), 2024</em><br>
+      <em>G. Yang, M. Scandella, S. Formentin, T. Parisini</em>
+    </li>
+    </ul>
+    <h2>2023</h2>
+    <ul>
     <li>
       <strong><a href="https://doi.org/10.1080/00423114.2023.2290709">Joint vehicle state and parameters estimation via twin-in-the-loop observers</a></strong><br>
       <em>Vehicle System Dynamics, vol. 1, pages 1{27, December 2023</em><br>
