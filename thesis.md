@@ -28,6 +28,9 @@ permalink: /thesis
        <li>
       <em>Machine learning algorithms development</em><br>
       </li>
+      <li>
+      <em>Resilient predictive controller development</em><br>
+      </li>
   </ul>
     </li>
   </ul>
