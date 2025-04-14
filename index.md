@@ -157,7 +157,7 @@ title: "Publications & Patents"
     <h2>2023</h2>
     <ul>
     <li>
-      <strong><a href="https://doi.org/10.1109/CDC49753.2023.10383592">META-SMGO-: Similarity as a Prior in Black-Box Optimization</a></strong><br>
+      <strong><a href="https://doi.org/10.1109/CDC49753.2023.10383592">META-SMGO-&Delta;: Similarity as a Prior in Black-Box Optimization</a></strong><br>
       <em>2023 62nd IEEE Conference on Decision and Control (CDC), 2023</em><br>
       <em>R. Busetto, V. Breschi, S. Formentin</em>
     </li>
