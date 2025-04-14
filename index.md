@@ -475,12 +475,12 @@ title: "Publications & Patents"
   <ul>
     <li>
       <a href="https://hdl.handle.net/11311/1282026"><strong>Misurare un carico su un veicolo agricolo</strong></a><br>
-      <em>CNH Industrial S.p.A. and Politecnico di Milano, 102024000013171, 2024</em>
+      <em>CNH Industrial S.p.A. and Politecnico di Milano, 102024000013171, 2024</em><br>
       <em>A. Lucchini, S. M. Savaresi, S. Formentin, M. Norgia, R. G. Cestari, F. Cavedo</em>
     </li>
     <li>
       <a href="https://hdl.handle.net/11311/1129467"><strong>Procedimento per la stima della pressione degli pneumatici di un veicolo</strong></a><br>
-      <em>Maserati S.p.A. and Politecnico di Milano, 102018000020212, 2018 </em>
+      <em>Maserati S.p.A. and Politecnico di Milano, 102018000020212, 2018 </em><br>
       <em>T. Colombo, S. Formentin, A. Pozzato, S.M. Savaresi</em>
     </li>
     <li>
