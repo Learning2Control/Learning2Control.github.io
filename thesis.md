@@ -15,9 +15,9 @@ permalink: /thesis
   <h2>2025</h2>
   <ul>
     <li>
-      <strong>Man-in-the-Middle (MiTM) Attack Detection</strong><br>
-      Development of MITM attacks detection algorithms for Resilient Predictive Control [Cybersecurity/ML]
-      <strong>Kali Linux - Python - PyTorch/Tensorflow - Wireshark </strong><br>
+      <strong>Man-in-the-Middle (MiTM) Attack Detection [Cybersecurity/ML]</strong><br>
+      Development of MITM attacks detection algorithms for Resilient Predictive Control
+      <strong>Kali Linux - Python - PyTorch/Tensorflow - Wireshark - Matlab - Simulink</strong><br>
       <ul>
       <li>
       <em>Experimental deployment on actual networks</em><br>
