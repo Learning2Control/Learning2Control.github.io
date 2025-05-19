@@ -36,13 +36,19 @@ permalink: /thesis
     <li>
       <strong>Man-in-the-Middle (MiTM) Attack Detection [Cybersecurity/ML]</strong><br><br>
       Development of detection algorithms against MiTM attacks on control systems, focusing on resilient predictive controllers.<br><br>
-      <strong>Tools & Skills:</strong> Kali Linux, Python, PyTorch/TensorFlow, Wireshark, Matlab, Simulink<br><br>
+      <strong>Tools & Skills:</strong> <a href="https://www.kali.org/">Kali Linux</a>, Python, <a href="https://pytorch.org/>PyTorch</a>/<a href="https://www.tensorflow.org/">TensorFlow</a>, <a href="https://www.wireshark.org/">Wireshark</a>, Matlab, Simulink<br><br>
       <ul>
         <li><em>Experimental deployment on actual networks</em></li>
         <li><em>In-depth study of industrial communication protocols</em></li>
         <li><em>Development of ML-based intrusion detection algorithms</em></li>
         <li><em>Design and testing of resilient predictive controllers under attack</em></li>
       </ul>
+      <div style="text-align: center;">
+    <img src="assets/images/mitm_image.png" alt="mitm" style="height: 600px; width: 600px;" />
+    <p style="margin-top: 0.5em; font-style: italic; color: #555;">
+    Man-in-the-Middle - Let's detect it!
+  </p>
+    </div>
     </li>
 
   </ul>
