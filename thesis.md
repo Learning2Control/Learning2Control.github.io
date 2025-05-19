@@ -20,9 +20,10 @@ permalink: /thesis
       <strong>Key question: Can we reliably initialize a simulator using observed vehicle states?</strong><br><br>
       <strong>Tools & Skills:</strong> Modelica/Dymola, Python, Matlab, Simulink<br><br>
       <ul>
-        <li><em>Development of physics-based and data-driven digital twins</em></li>
+        <li><em>Development of physics-based digital twin</em></li>
         <li><em>Integration with Model Predictive Control frameworks</em></li>
-        <li><em>Testing in simulation with potential deployment on HIL platforms</em></li>
+        <li><em>Development of black-box non-linear controller (e.g., <a href="https://github.com/bayesian-optimization/BayesianOptimization">Bayesian Optimization [BO]</a>)</em></li>
+        <li><em>Testing in simulation</em></li>
       </ul>
       <div style="text-align: center;">
     <img src="assets/images/BO-controller-run_20250514_154614.png" alt="simulation" style="height: 600px; width: 600px;" />
