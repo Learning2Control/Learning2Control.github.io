@@ -13,11 +13,10 @@ permalink: /thesis
 <section id="master_thesis">
   <h2>2025</h2>
   <ul>
-  <a href="https://youtu.be/Zea-cCK9_7k">Dymola</a>
   
     <li>
       <strong>Twin-embedded MPC for longitudinal/lateral vehicle control</strong><br><br>
-      Development of a high-fidelity, physics-based vehicle dynamics simulator in Modelica/<a href="https://youtu.be/Zea-cCK9_7k">Dymola</a>, integrated with a digital twin for predictive control tasks.<br><br>
+      Development of a high-fidelity, physics-based vehicle dynamics simulator in <a href="https://modelica.org/">Modelica</a>/<a href="https://www.3ds.com/it/products/catia/dymola">Dymola</a>, integrated with a digital twin for predictive control tasks.<br><br>
       <strong>Key question: Can we reliably initialize a simulator using observed vehicle states?</strong><br><br>
       <strong>Tools & Skills:</strong> Modelica/Dymola, Python, Matlab, Simulink<br><br>
       <ul>
