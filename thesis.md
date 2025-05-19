@@ -27,6 +27,9 @@ permalink: /thesis
       </ul>
       <div style="text-align: center;">
     <img src="assets/images/BO-controller-run_20250514_154614.png" alt="simulation" style="height: 600px; width: 600px;" />
+    <p style="margin-top: 0.5em; font-style: italic; color: #555;">
+    Cruise control application – Bayesian-based throttle controller.
+  </p>
     </div>
     </li>
 
