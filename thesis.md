@@ -25,7 +25,7 @@ permalink: /thesis
         <li><em>Testing in simulation with potential deployment on HIL platforms</em></li>
       </ul>
       <div style="text-align: center;">
-    <img src="assets/images/BO-controller-run_20250514_154614.png" alt="simulation" style="height: 440px; width: 600px;" />
+    <img src="assets/images/BO-controller-run_20250514_154614.png" alt="simulation" style="height: 600px; width: 600px;" />
     </div>
     </li>
 
